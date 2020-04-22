@@ -1,6 +1,10 @@
 {
   "sidebar": [
     {
+      "section": "Home",
+      "topics": ""
+    },
+    {
       "section": "Museums",
       "topics": [
         {
