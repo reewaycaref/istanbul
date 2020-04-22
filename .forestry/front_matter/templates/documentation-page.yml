@@ -15,4 +15,5 @@ fields:
   name: slug
   label: slug
 pages:
+- docs/asiyan-museum.md
 - docs/editing-in-forestry.md
